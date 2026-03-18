@@ -8,3 +8,4 @@ let diasRestantes = oxigênio / consumoTotalBase;
 
 alert(`relatório de Marte: Restam: ${diasRestantes.toFixed(0)} dias de oxigênio!!`);
 
+alert("oii");
