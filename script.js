@@ -1,4 +1,4 @@
-alert("tem lugares");
+alert("tem lgugares");
 let pessoas = Number(prompt("insira a quantidade de pessoas em marte:"));
 const consumoDiario = 15; //litros por pessoa.
 
